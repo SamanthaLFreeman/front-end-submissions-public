@@ -107,6 +107,6 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Samantha Freeman
 
-* [Node Server Tutorial]()
-* [Promise Practice Exercises]()
-* [Web Scraping Workshop]()
+* [Node Server Tutorial](https://github.com/SamanthaLFreeman/nodeIntro)
+* [Promise Practice Exercises](https://repl.it/@SamanthaL/Promise-Exercises)
+* [Web Scraping Workshop](https://github.com/SamanthaLFreeman/webscraping-workshop)
